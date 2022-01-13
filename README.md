@@ -7,14 +7,12 @@ There are two tables: both contain some common information such as the location(
 
 +The first table is called CovidDeaths incorporating all information relevant to the population and records of number of cases and deaths over time:  new cases, total cases, proportion of case in the population, new deaths, total deaths, etc 
 
-![](https://github.com/[minhtin1106]/[SQL-exploration-data-project]/blob/[main]/coviddeaths%20data%20tables%20examples.png)
-
-#https://github.com/minhtin1106/SQL-exploration-data-project/blob/main/coviddeaths%20data%20tables%20examples.png
+![Examples rows of covidDeaths table](coviddeaths%20data%20tables%20examples.png)
 
 
 +One is called CovidVaccinations including all about the test and vaccinations information: new_tests, total_tests, total_tests_per_thousand, new_vaccinations total_vaccinations, etc
 
-![alt text](http://url/to/covidvaccinations  tables examples.png)
+![Examples rows of covidVaccinations table](covidvaccinations%20tables%20examples.png)
 
 
 After having an overview of the dataset, let's dig deeper into the coding section
