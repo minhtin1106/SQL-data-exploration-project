@@ -7,7 +7,8 @@ There are two tables: both contain some common information such as the location(
 
 +The first table is called CovidDeaths incorporating all information relevant to the population and records of number of cases and deaths over time:  new cases, total cases, proportion of case in the population, new deaths, total deaths, etc 
 
-![alt text](http://url/to/coviddeaths data tables examples.png)
+![alt text](https://github.com/[minhtin1106]/[SQL-exploration-data-project]/blob/[branch]/coviddeaths data tables examples.jpg?raw=true)
+
 
 
 
