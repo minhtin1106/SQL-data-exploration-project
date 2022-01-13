@@ -3,9 +3,9 @@ The project is to review my SQL proficiency. The data used is concerned with COV
 In this minor project, I practiced and showcased my skills in using SQL to draw data from database for exploration purpose. Aggregate functions, windows functions, CTE, VIEW, etc are displayed in the codes
 
 Tables description:
-There are two tables: both contain some common information such as the location(countries, continent), population 
+There are two tables: both contain some common information such as the location(countries, continent)
 
-+The first table is called CovidDeaths incorporating all information relevant to tracking of number of cases and deaths over time:  new cases, total cases, proportion of case in the population, new deaths, total deaths, etc (photo attached)
++The first table is called CovidDeaths incorporating all information relevant to the population and records of number of cases and deaths over time:  new cases, total cases, proportion of case in the population, new deaths, total deaths, etc (photo attached)
 
 +One is called CovidVaccinations including all about the test and vaccinations information: new_tests, total_tests, total_tests_per_thousand, new_vaccinations total_vaccinations, etc (photo attached)
 
